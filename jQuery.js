@@ -15,4 +15,7 @@ adding html
 e.g $("#eg div p").append(var);
 .append /.prepend /.before /.after /.html / .text
 
+clean element
+.empty(only clear in tag) .remove
+
 
