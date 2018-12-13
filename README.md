@@ -1,1 +1,1 @@
-# thSecreteStorage
+# thSecretStorage
