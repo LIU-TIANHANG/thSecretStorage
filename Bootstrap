@@ -1,2 +1,4 @@
 Responsive development
 Viewport Media query
+
+col-{size}-{number}
